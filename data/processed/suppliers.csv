@@ -1,0 +1,16 @@
+supplier_id,supplier_name,category,city,state,payment_terms
+SUP001,TechSource Distributors,Technology,New York,New York,Net 15
+SUP002,Prime Office Supplies,Furniture,Los Angeles,California,Net 45
+SUP003,Global Retail Solutions,Furniture,Chicago,Illinois,Net 30
+SUP004,Metro Wholesale,Furniture,Houston,Texas,Net 15
+SUP005,Apex Business Products,Technology,Phoenix,Arizona,Net 15
+SUP006,SmartTrade Suppliers,Technology,Philadelphia,Pennsylvania,Net 60
+SUP007,NorthStar Distribution,Furniture,Dallas,Texas,Net 15
+SUP008,Reliable Retail Supply,Furniture,San Jose,California,Net 30
+SUP009,Vertex Wholesale,Furniture,Austin,Texas,Net 15
+SUP010,United Business Supplies,Technology,Seattle,Washington,Net 30
+SUP011,BlueLine Distributors,Technology,Boston,Massachusetts,Net 60
+SUP012,Capital Office Products,Furniture,Denver,Colorado,Net 60
+SUP013,ProSource Trading,Technology,Atlanta,Georgia,Net 45
+SUP014,Evergreen Supplies,Furniture,Miami,Florida,Net 30
+SUP015,Pioneer Distribution,Technology,Detroit,Michigan,Net 60

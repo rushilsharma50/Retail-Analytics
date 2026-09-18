@@ -1,0 +1,31 @@
+employee_id,employee_name,role,store_id,department
+EMP001,Arjun Shah,Invoice Analyst,ST282,Finance Operations
+EMP002,Rohan Patel,Invoice Analyst,ST559,Retail Operations
+EMP003,Vihaan Shah,Invoice Analyst,ST096,Finance Operations
+EMP004,Pooja Malhotra,Operations Analyst,ST028,Finance Operations
+EMP005,Riya Verma,Senior Invoice Analyst,ST226,Accounts Payable
+EMP006,Aarav Mehta,Invoice Analyst,ST433,Accounts Payable
+EMP007,Rohan Desai,Invoice Analyst,ST345,Finance Operations
+EMP008,Ananya Patel,Invoice Analyst,ST368,Accounts Payable
+EMP009,Vihaan Gupta,Invoice Analyst,ST550,Retail Operations
+EMP010,Aditya Kapoor,Operations Analyst,ST301,Accounts Payable
+EMP011,Meera Desai,Invoice Analyst,ST072,Finance Operations
+EMP012,Raj Patel,Invoice Analyst,ST239,Retail Operations
+EMP013,Amit Gupta,Invoice Analyst,ST374,Accounts Payable
+EMP014,Priya Desai,Invoice Analyst,ST274,Finance Operations
+EMP015,Riya Desai,Senior Invoice Analyst,ST168,Retail Operations
+EMP016,Amit Kapoor,Invoice Analyst,ST225,Finance Operations
+EMP017,Vivek Shah,Senior Invoice Analyst,ST324,Accounts Payable
+EMP018,Aditya Desai,Invoice Analyst,ST581,Finance Operations
+EMP019,Sneha Verma,Invoice Analyst,ST470,Accounts Payable
+EMP020,Rohan Desai,Operations Analyst,ST575,Accounts Payable
+EMP021,Meera Verma,Senior Invoice Analyst,ST598,Accounts Payable
+EMP022,Vivek Mehta,Senior Invoice Analyst,ST522,Finance Operations
+EMP023,Vihaan Patel,Invoice Analyst,ST157,Retail Operations
+EMP024,Aisha Patel,Senior Invoice Analyst,ST395,Retail Operations
+EMP025,Pooja Joshi,Invoice Analyst,ST567,Finance Operations
+EMP026,Riya Joshi,Invoice Analyst,ST349,Accounts Payable
+EMP027,Isha Mehta,Invoice Analyst,ST465,Accounts Payable
+EMP028,Pooja Mehta,Invoice Analyst,ST520,Accounts Payable
+EMP029,Pooja Malhotra,Invoice Analyst,ST204,Accounts Payable
+EMP030,Rahul Kapoor,Invoice Analyst,ST544,Accounts Payable

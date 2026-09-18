@@ -1,0 +1,633 @@
+store_id,store_name,city,state,postal_code,region,store_type,opening_date
+ST001,Auburn South Store ST001,Auburn,Alabama,36830,South,Flagship,2013-01-01
+ST002,Decatur South Store ST002,Decatur,Alabama,35601,South,Standard,2013-01-01
+ST003,Florence South Store ST003,Florence,Alabama,35630,South,Standard,2013-01-01
+ST004,Hoover South Store ST004,Hoover,Alabama,35244,South,Large,2013-01-01
+ST005,Huntsville South Store ST005,Huntsville,Alabama,35810,South,Standard,2013-01-01
+ST006,Mobile South Store ST006,Mobile,Alabama,36608,South,Standard,2013-01-01
+ST007,Montgomery South Store ST007,Montgomery,Alabama,36116,South,Large,2013-01-01
+ST008,Tuscaloosa South Store ST008,Tuscaloosa,Alabama,35401,South,Standard,2013-01-01
+ST009,Avondale West Store ST009,Avondale,Arizona,85323,West,Standard,2013-01-01
+ST010,Bullhead City West Store ST010,Bullhead City,Arizona,86442,West,Large,2013-01-01
+ST011,Chandler West Store ST011,Chandler,Arizona,85224,West,Flagship,2013-01-01
+ST012,Gilbert West Store ST012,Gilbert,Arizona,85234,West,Standard,2013-01-01
+ST013,Glendale West Store ST013,Glendale,Arizona,85301,West,Large,2013-01-01
+ST014,Mesa West Store ST014,Mesa,Arizona,85204,West,Standard,2013-01-01
+ST015,Peoria West Store ST015,Peoria,Arizona,85345,West,Standard,2013-01-01
+ST016,Phoenix West Store ST016,Phoenix,Arizona,85023,West,Large,2013-01-01
+ST017,Scottsdale West Store ST017,Scottsdale,Arizona,85254,West,Standard,2013-01-01
+ST018,Sierra Vista West Store ST018,Sierra Vista,Arizona,85635,West,Standard,2013-01-01
+ST019,Tempe West Store ST019,Tempe,Arizona,85281,West,Large,2013-01-01
+ST020,Tucson West Store ST020,Tucson,Arizona,85705,West,Standard,2013-01-01
+ST021,Yuma West Store ST021,Yuma,Arizona,85364,West,Flagship,2013-01-01
+ST022,Conway South Store ST022,Conway,Arkansas,72032,South,Large,2013-01-01
+ST023,Fayetteville South Store ST023,Fayetteville,Arkansas,72701,South,Standard,2013-01-01
+ST024,Hot Springs South Store ST024,Hot Springs,Arkansas,71901,South,Standard,2013-01-01
+ST025,Jonesboro South Store ST025,Jonesboro,Arkansas,72401,South,Large,2013-01-01
+ST026,Little Rock South Store ST026,Little Rock,Arkansas,72209,South,Standard,2013-01-01
+ST027,Pine Bluff South Store ST027,Pine Bluff,Arkansas,71603,South,Standard,2013-01-01
+ST028,Rogers South Store ST028,Rogers,Arkansas,72756,South,Large,2013-01-01
+ST029,Springdale South Store ST029,Springdale,Arkansas,72762,South,Standard,2013-01-01
+ST030,Texarkana South Store ST030,Texarkana,Arkansas,71854,South,Standard,2013-01-01
+ST031,Anaheim West Store ST031,Anaheim,California,92804,West,Flagship,2013-01-01
+ST032,Antioch West Store ST032,Antioch,California,94509,West,Standard,2013-01-01
+ST033,Apple Valley West Store ST033,Apple Valley,California,92307,West,Standard,2013-01-01
+ST034,Bakersfield West Store ST034,Bakersfield,California,93309,West,Large,2013-01-01
+ST035,Brentwood West Store ST035,Brentwood,California,94513,West,Standard,2013-01-01
+ST036,Burbank West Store ST036,Burbank,California,91505,West,Standard,2013-01-01
+ST037,Camarillo West Store ST037,Camarillo,California,93010,West,Large,2013-01-01
+ST038,Chico West Store ST038,Chico,California,95928,West,Standard,2013-01-01
+ST039,Chula Vista West Store ST039,Chula Vista,California,91911,West,Standard,2013-01-01
+ST040,Citrus Heights West Store ST040,Citrus Heights,California,95610,West,Large,2013-01-01
+ST041,Coachella West Store ST041,Coachella,California,92236,West,Flagship,2013-01-01
+ST042,Concord West Store ST042,Concord,California,94521,West,Standard,2013-01-01
+ST043,Costa Mesa West Store ST043,Costa Mesa,California,92627,West,Large,2013-01-01
+ST044,Danville West Store ST044,Danville,California,94526,West,Standard,2013-01-01
+ST045,Davis West Store ST045,Davis,California,95616,West,Standard,2013-01-01
+ST046,Dublin West Store ST046,Dublin,California,94568,West,Large,2013-01-01
+ST047,El Cajon West Store ST047,El Cajon,California,92020,West,Standard,2013-01-01
+ST048,Encinitas West Store ST048,Encinitas,California,92024,West,Standard,2013-01-01
+ST049,Escondido West Store ST049,Escondido,California,92025,West,Large,2013-01-01
+ST050,Fairfield West Store ST050,Fairfield,California,94533,West,Standard,2013-01-01
+ST051,Fresno West Store ST051,Fresno,California,93727,West,Flagship,2013-01-01
+ST052,Hesperia West Store ST052,Hesperia,California,92345,West,Large,2013-01-01
+ST053,Huntington Beach West Store ST053,Huntington Beach,California,92646,West,Standard,2013-01-01
+ST054,Inglewood West Store ST054,Inglewood,California,90301,West,Standard,2013-01-01
+ST055,La Mesa West Store ST055,La Mesa,California,91941,West,Large,2013-01-01
+ST056,La Quinta West Store ST056,La Quinta,California,92253,West,Standard,2013-01-01
+ST057,Laguna Niguel West Store ST057,Laguna Niguel,California,92677,West,Standard,2013-01-01
+ST058,Lake Elsinore West Store ST058,Lake Elsinore,California,92530,West,Large,2013-01-01
+ST059,Lake Forest West Store ST059,Lake Forest,California,92630,West,Standard,2013-01-01
+ST060,Lakewood West Store ST060,Lakewood,California,90712,West,Standard,2013-01-01
+ST061,Lancaster West Store ST061,Lancaster,California,93534,West,Flagship,2013-01-01
+ST062,Lodi West Store ST062,Lodi,California,95240,West,Standard,2013-01-01
+ST063,Long Beach West Store ST063,Long Beach,California,90805,West,Standard,2013-01-01
+ST064,Los Angeles West Store ST064,Los Angeles,California,90036,West,Large,2013-01-01
+ST065,Los Angeles West Store ST065,Los Angeles,California,90032,West,Standard,2013-01-01
+ST066,Los Angeles West Store ST066,Los Angeles,California,90049,West,Standard,2013-01-01
+ST067,Los Angeles West Store ST067,Los Angeles,California,90004,West,Large,2013-01-01
+ST068,Los Angeles West Store ST068,Los Angeles,California,90045,West,Standard,2013-01-01
+ST069,Los Angeles West Store ST069,Los Angeles,California,90008,West,Standard,2013-01-01
+ST070,Manteca West Store ST070,Manteca,California,95336,West,Large,2013-01-01
+ST071,Mission Viejo West Store ST071,Mission Viejo,California,92691,West,Flagship,2013-01-01
+ST072,Modesto West Store ST072,Modesto,California,95351,West,Standard,2013-01-01
+ST073,Montebello West Store ST073,Montebello,California,90640,West,Large,2013-01-01
+ST074,Moreno Valley West Store ST074,Moreno Valley,California,92553,West,Standard,2013-01-01
+ST075,Morgan Hill West Store ST075,Morgan Hill,California,95037,West,Standard,2013-01-01
+ST076,Murrieta West Store ST076,Murrieta,California,92563,West,Large,2013-01-01
+ST077,Oakland West Store ST077,Oakland,California,94601,West,Standard,2013-01-01
+ST078,Oceanside West Store ST078,Oceanside,California,92054,West,Standard,2013-01-01
+ST079,Ontario West Store ST079,Ontario,California,91761,West,Large,2013-01-01
+ST080,Oxnard West Store ST080,Oxnard,California,93030,West,Standard,2013-01-01
+ST081,Pasadena West Store ST081,Pasadena,California,91104,West,Flagship,2013-01-01
+ST082,Pico Rivera West Store ST082,Pico Rivera,California,90660,West,Large,2013-01-01
+ST083,Pomona West Store ST083,Pomona,California,91767,West,Standard,2013-01-01
+ST084,Rancho Cucamonga West Store ST084,Rancho Cucamonga,California,91730,West,Standard,2013-01-01
+ST085,Redding West Store ST085,Redding,California,96003,West,Large,2013-01-01
+ST086,Redlands West Store ST086,Redlands,California,92374,West,Standard,2013-01-01
+ST087,Redondo Beach West Store ST087,Redondo Beach,California,90278,West,Standard,2013-01-01
+ST088,Redwood City West Store ST088,Redwood City,California,94061,West,Large,2013-01-01
+ST089,Riverside West Store ST089,Riverside,California,92503,West,Standard,2013-01-01
+ST090,Roseville West Store ST090,Roseville,California,95661,West,Standard,2013-01-01
+ST091,Sacramento West Store ST091,Sacramento,California,95823,West,Flagship,2013-01-01
+ST092,Salinas West Store ST092,Salinas,California,93905,West,Standard,2013-01-01
+ST093,San Bernardino West Store ST093,San Bernardino,California,92404,West,Standard,2013-01-01
+ST094,San Clemente West Store ST094,San Clemente,California,92672,West,Large,2013-01-01
+ST095,San Diego West Store ST095,San Diego,California,92037,West,Standard,2013-01-01
+ST096,San Diego West Store ST096,San Diego,California,92024,West,Standard,2013-01-01
+ST097,San Diego West Store ST097,San Diego,California,92105,West,Large,2013-01-01
+ST098,San Francisco West Store ST098,San Francisco,California,94109,West,Standard,2013-01-01
+ST099,San Francisco West Store ST099,San Francisco,California,94122,West,Standard,2013-01-01
+ST100,San Francisco West Store ST100,San Francisco,California,94110,West,Large,2013-01-01
+ST101,San Gabriel West Store ST101,San Gabriel,California,91776,West,Flagship,2013-01-01
+ST102,San Jose West Store ST102,San Jose,California,95123,West,Standard,2013-01-01
+ST103,San Luis Obispo West Store ST103,San Luis Obispo,California,93405,West,Large,2013-01-01
+ST104,San Mateo West Store ST104,San Mateo,California,94403,West,Standard,2013-01-01
+ST105,Santa Ana West Store ST105,Santa Ana,California,92704,West,Standard,2013-01-01
+ST106,Santa Barbara West Store ST106,Santa Barbara,California,93101,West,Large,2013-01-01
+ST107,Santa Clara West Store ST107,Santa Clara,California,95051,West,Standard,2013-01-01
+ST108,Santa Maria West Store ST108,Santa Maria,California,93454,West,Standard,2013-01-01
+ST109,Stockton West Store ST109,Stockton,California,95207,West,Large,2013-01-01
+ST110,Sunnyvale West Store ST110,Sunnyvale,California,94086,West,Standard,2013-01-01
+ST111,Temecula West Store ST111,Temecula,California,92592,West,Flagship,2013-01-01
+ST112,Thousand Oaks West Store ST112,Thousand Oaks,California,91360,West,Large,2013-01-01
+ST113,Torrance West Store ST113,Torrance,California,90503,West,Standard,2013-01-01
+ST114,Vacaville West Store ST114,Vacaville,California,95687,West,Standard,2013-01-01
+ST115,Vallejo West Store ST115,Vallejo,California,94591,West,Large,2013-01-01
+ST116,Visalia West Store ST116,Visalia,California,93277,West,Standard,2013-01-01
+ST117,Westminster West Store ST117,Westminster,California,92683,West,Standard,2013-01-01
+ST118,Whittier West Store ST118,Whittier,California,90604,West,Large,2013-01-01
+ST119,Woodland West Store ST119,Woodland,California,95695,West,Standard,2013-01-01
+ST120,Yucaipa West Store ST120,Yucaipa,California,92399,West,Standard,2013-01-01
+ST121,Arvada West Store ST121,Arvada,Colorado,80004,West,Flagship,2013-01-01
+ST122,Aurora West Store ST122,Aurora,Colorado,80013,West,Standard,2013-01-01
+ST123,Broomfield West Store ST123,Broomfield,Colorado,80020,West,Standard,2013-01-01
+ST124,Colorado Springs West Store ST124,Colorado Springs,Colorado,80906,West,Large,2013-01-01
+ST125,Commerce City West Store ST125,Commerce City,Colorado,80022,West,Standard,2013-01-01
+ST126,Denver West Store ST126,Denver,Colorado,80219,West,Standard,2013-01-01
+ST127,Englewood West Store ST127,Englewood,Colorado,80112,West,Large,2013-01-01
+ST128,Fort Collins West Store ST128,Fort Collins,Colorado,80525,West,Standard,2013-01-01
+ST129,Greeley West Store ST129,Greeley,Colorado,80634,West,Standard,2013-01-01
+ST130,Littleton West Store ST130,Littleton,Colorado,80122,West,Large,2013-01-01
+ST131,Longmont West Store ST131,Longmont,Colorado,80501,West,Flagship,2013-01-01
+ST132,Louisville West Store ST132,Louisville,Colorado,80027,West,Standard,2013-01-01
+ST133,Loveland West Store ST133,Loveland,Colorado,80538,West,Large,2013-01-01
+ST134,Parker West Store ST134,Parker,Colorado,80134,West,Standard,2013-01-01
+ST135,Pueblo West Store ST135,Pueblo,Colorado,81001,West,Standard,2013-01-01
+ST136,Thornton West Store ST136,Thornton,Colorado,80229,West,Large,2013-01-01
+ST137,Bristol East Store ST137,Bristol,Connecticut,6010,East,Standard,2013-01-01
+ST138,Danbury East Store ST138,Danbury,Connecticut,6810,East,Standard,2013-01-01
+ST139,Fairfield East Store ST139,Fairfield,Connecticut,6824,East,Large,2013-01-01
+ST140,Manchester East Store ST140,Manchester,Connecticut,6040,East,Standard,2013-01-01
+ST141,Meriden East Store ST141,Meriden,Connecticut,6450,East,Flagship,2013-01-01
+ST142,Middletown East Store ST142,Middletown,Connecticut,6457,East,Large,2013-01-01
+ST143,Milford East Store ST143,Milford,Connecticut,6460,East,Standard,2013-01-01
+ST144,Norwich East Store ST144,Norwich,Connecticut,6360,East,Standard,2013-01-01
+ST145,Shelton East Store ST145,Shelton,Connecticut,6484,East,Large,2013-01-01
+ST146,Waterbury East Store ST146,Waterbury,Connecticut,6708,East,Standard,2013-01-01
+ST147,Dover East Store ST147,Dover,Delaware,19901,East,Standard,2013-01-01
+ST148,Newark East Store ST148,Newark,Delaware,19711,East,Large,2013-01-01
+ST149,Wilmington East Store ST149,Wilmington,Delaware,19805,East,Standard,2013-01-01
+ST150,Washington East Store ST150,Washington,District of Columbia,20016,East,Standard,2013-01-01
+ST151,Apopka South Store ST151,Apopka,Florida,32712,South,Flagship,2013-01-01
+ST152,Boca Raton South Store ST152,Boca Raton,Florida,33433,South,Standard,2013-01-01
+ST153,Boynton Beach South Store ST153,Boynton Beach,Florida,33437,South,Standard,2013-01-01
+ST154,Coral Gables South Store ST154,Coral Gables,Florida,33134,South,Large,2013-01-01
+ST155,Coral Springs South Store ST155,Coral Springs,Florida,33065,South,Standard,2013-01-01
+ST156,Daytona Beach South Store ST156,Daytona Beach,Florida,32114,South,Standard,2013-01-01
+ST157,Delray Beach South Store ST157,Delray Beach,Florida,33445,South,Large,2013-01-01
+ST158,Deltona South Store ST158,Deltona,Florida,32725,South,Standard,2013-01-01
+ST159,Fort Lauderdale South Store ST159,Fort Lauderdale,Florida,33311,South,Standard,2013-01-01
+ST160,Hialeah South Store ST160,Hialeah,Florida,33012,South,Large,2013-01-01
+ST161,Hollywood South Store ST161,Hollywood,Florida,33021,South,Flagship,2013-01-01
+ST162,Homestead South Store ST162,Homestead,Florida,33030,South,Standard,2013-01-01
+ST163,Jacksonville South Store ST163,Jacksonville,Florida,32216,South,Large,2013-01-01
+ST164,Jupiter South Store ST164,Jupiter,Florida,33458,South,Standard,2013-01-01
+ST165,Kissimmee South Store ST165,Kissimmee,Florida,34741,South,Standard,2013-01-01
+ST166,Lakeland South Store ST166,Lakeland,Florida,33801,South,Large,2013-01-01
+ST167,Margate South Store ST167,Margate,Florida,33063,South,Standard,2013-01-01
+ST168,Melbourne South Store ST168,Melbourne,Florida,32935,South,Standard,2013-01-01
+ST169,Miami South Store ST169,Miami,Florida,33180,South,Large,2013-01-01
+ST170,Miami South Store ST170,Miami,Florida,33142,South,Standard,2013-01-01
+ST171,Miami South Store ST171,Miami,Florida,33178,South,Flagship,2013-01-01
+ST172,Miramar South Store ST172,Miramar,Florida,33023,South,Large,2013-01-01
+ST173,North Miami South Store ST173,North Miami,Florida,33161,South,Standard,2013-01-01
+ST174,Orlando South Store ST174,Orlando,Florida,32839,South,Standard,2013-01-01
+ST175,Ormond Beach South Store ST175,Ormond Beach,Florida,32174,South,Large,2013-01-01
+ST176,Palm Coast South Store ST176,Palm Coast,Florida,32137,South,Standard,2013-01-01
+ST177,Pembroke Pines South Store ST177,Pembroke Pines,Florida,33024,South,Standard,2013-01-01
+ST178,Pensacola South Store ST178,Pensacola,Florida,32503,South,Large,2013-01-01
+ST179,Plantation South Store ST179,Plantation,Florida,33317,South,Standard,2013-01-01
+ST180,Pompano Beach South Store ST180,Pompano Beach,Florida,33068,South,Standard,2013-01-01
+ST181,Port Orange South Store ST181,Port Orange,Florida,32127,South,Flagship,2013-01-01
+ST182,Port Saint Lucie South Store ST182,Port Saint Lucie,Florida,34952,South,Standard,2013-01-01
+ST183,Saint Petersburg South Store ST183,Saint Petersburg,Florida,33710,South,Standard,2013-01-01
+ST184,Sanford South Store ST184,Sanford,Florida,32771,South,Large,2013-01-01
+ST185,Tallahassee South Store ST185,Tallahassee,Florida,32303,South,Standard,2013-01-01
+ST186,Tamarac South Store ST186,Tamarac,Florida,33319,South,Standard,2013-01-01
+ST187,Tampa South Store ST187,Tampa,Florida,33614,South,Large,2013-01-01
+ST188,West Palm Beach South Store ST188,West Palm Beach,Florida,33407,South,Standard,2013-01-01
+ST189,Athens South Store ST189,Athens,Georgia,30605,South,Standard,2013-01-01
+ST190,Atlanta South Store ST190,Atlanta,Georgia,30318,South,Large,2013-01-01
+ST191,Columbus South Store ST191,Columbus,Georgia,31907,South,Flagship,2013-01-01
+ST192,East Point South Store ST192,East Point,Georgia,30344,South,Standard,2013-01-01
+ST193,Macon South Store ST193,Macon,Georgia,31204,South,Large,2013-01-01
+ST194,Marietta South Store ST194,Marietta,Georgia,30062,South,Standard,2013-01-01
+ST195,Roswell South Store ST195,Roswell,Georgia,30076,South,Standard,2013-01-01
+ST196,Sandy Springs South Store ST196,Sandy Springs,Georgia,30328,South,Large,2013-01-01
+ST197,Smyrna South Store ST197,Smyrna,Georgia,30080,South,Standard,2013-01-01
+ST198,Warner Robins South Store ST198,Warner Robins,Georgia,31088,South,Standard,2013-01-01
+ST199,Woodstock South Store ST199,Woodstock,Georgia,30188,South,Large,2013-01-01
+ST200,Boise West Store ST200,Boise,Idaho,83704,West,Standard,2013-01-01
+ST201,Caldwell West Store ST201,Caldwell,Idaho,83605,West,Flagship,2013-01-01
+ST202,Lewiston West Store ST202,Lewiston,Idaho,83501,West,Large,2013-01-01
+ST203,Meridian West Store ST203,Meridian,Idaho,83642,West,Standard,2013-01-01
+ST204,Pocatello West Store ST204,Pocatello,Idaho,83201,West,Standard,2013-01-01
+ST205,Twin Falls West Store ST205,Twin Falls,Idaho,83301,West,Large,2013-01-01
+ST206,Arlington Heights Central Store ST206,Arlington Heights,Illinois,60004,Central,Standard,2013-01-01
+ST207,Aurora Central Store ST207,Aurora,Illinois,60505,Central,Standard,2013-01-01
+ST208,Bloomington Central Store ST208,Bloomington,Illinois,61701,Central,Large,2013-01-01
+ST209,Bolingbrook Central Store ST209,Bolingbrook,Illinois,60440,Central,Standard,2013-01-01
+ST210,Buffalo Grove Central Store ST210,Buffalo Grove,Illinois,60089,Central,Standard,2013-01-01
+ST211,Carol Stream Central Store ST211,Carol Stream,Illinois,60188,Central,Flagship,2013-01-01
+ST212,Champaign Central Store ST212,Champaign,Illinois,61821,Central,Standard,2013-01-01
+ST213,Chicago Central Store ST213,Chicago,Illinois,60610,Central,Standard,2013-01-01
+ST214,Chicago Central Store ST214,Chicago,Illinois,60623,Central,Large,2013-01-01
+ST215,Chicago Central Store ST215,Chicago,Illinois,60653,Central,Standard,2013-01-01
+ST216,Danville Central Store ST216,Danville,Illinois,61832,Central,Standard,2013-01-01
+ST217,Decatur Central Store ST217,Decatur,Illinois,62521,Central,Large,2013-01-01
+ST218,Des Plaines Central Store ST218,Des Plaines,Illinois,60016,Central,Standard,2013-01-01
+ST219,Elmhurst Central Store ST219,Elmhurst,Illinois,60126,Central,Standard,2013-01-01
+ST220,Evanston Central Store ST220,Evanston,Illinois,60201,Central,Large,2013-01-01
+ST221,Frankfort Central Store ST221,Frankfort,Illinois,60423,Central,Flagship,2013-01-01
+ST222,Freeport Central Store ST222,Freeport,Illinois,61032,Central,Standard,2013-01-01
+ST223,Glenview Central Store ST223,Glenview,Illinois,60025,Central,Large,2013-01-01
+ST224,Highland Park Central Store ST224,Highland Park,Illinois,60035,Central,Standard,2013-01-01
+ST225,Naperville Central Store ST225,Naperville,Illinois,60540,Central,Standard,2013-01-01
+ST226,Normal Central Store ST226,Normal,Illinois,61761,Central,Large,2013-01-01
+ST227,Oak Park Central Store ST227,Oak Park,Illinois,60302,Central,Standard,2013-01-01
+ST228,Orland Park Central Store ST228,Orland Park,Illinois,60462,Central,Standard,2013-01-01
+ST229,Oswego Central Store ST229,Oswego,Illinois,60543,Central,Large,2013-01-01
+ST230,Palatine Central Store ST230,Palatine,Illinois,60067,Central,Standard,2013-01-01
+ST231,Park Ridge Central Store ST231,Park Ridge,Illinois,60068,Central,Flagship,2013-01-01
+ST232,Peoria Central Store ST232,Peoria,Illinois,61604,Central,Large,2013-01-01
+ST233,Quincy Central Store ST233,Quincy,Illinois,62301,Central,Standard,2013-01-01
+ST234,Rockford Central Store ST234,Rockford,Illinois,61107,Central,Standard,2013-01-01
+ST235,Romeoville Central Store ST235,Romeoville,Illinois,60441,Central,Large,2013-01-01
+ST236,Saint Charles Central Store ST236,Saint Charles,Illinois,60174,Central,Standard,2013-01-01
+ST237,Skokie Central Store ST237,Skokie,Illinois,60076,Central,Standard,2013-01-01
+ST238,Tinley Park Central Store ST238,Tinley Park,Illinois,60477,Central,Large,2013-01-01
+ST239,Wheeling Central Store ST239,Wheeling,Illinois,60090,Central,Standard,2013-01-01
+ST240,Woodstock Central Store ST240,Woodstock,Illinois,60098,Central,Standard,2013-01-01
+ST241,Bloomington Central Store ST241,Bloomington,Indiana,47401,Central,Flagship,2013-01-01
+ST242,Columbus Central Store ST242,Columbus,Indiana,47201,Central,Standard,2013-01-01
+ST243,Elkhart Central Store ST243,Elkhart,Indiana,46514,Central,Standard,2013-01-01
+ST244,Greenwood Central Store ST244,Greenwood,Indiana,46142,Central,Large,2013-01-01
+ST245,Indianapolis Central Store ST245,Indianapolis,Indiana,46203,Central,Standard,2013-01-01
+ST246,La Porte Central Store ST246,La Porte,Indiana,46350,Central,Standard,2013-01-01
+ST247,Lafayette Central Store ST247,Lafayette,Indiana,47905,Central,Large,2013-01-01
+ST248,Lawrence Central Store ST248,Lawrence,Indiana,46226,Central,Standard,2013-01-01
+ST249,Mishawaka Central Store ST249,Mishawaka,Indiana,46544,Central,Standard,2013-01-01
+ST250,New Albany Central Store ST250,New Albany,Indiana,47150,Central,Large,2013-01-01
+ST251,New Castle Central Store ST251,New Castle,Indiana,47362,Central,Flagship,2013-01-01
+ST252,Noblesville Central Store ST252,Noblesville,Indiana,46060,Central,Standard,2013-01-01
+ST253,Portage Central Store ST253,Portage,Indiana,46368,Central,Large,2013-01-01
+ST254,Richmond Central Store ST254,Richmond,Indiana,47374,Central,Standard,2013-01-01
+ST255,South Bend Central Store ST255,South Bend,Indiana,46614,Central,Standard,2013-01-01
+ST256,Burlington Central Store ST256,Burlington,Iowa,52601,Central,Large,2013-01-01
+ST257,Cedar Rapids Central Store ST257,Cedar Rapids,Iowa,52402,Central,Standard,2013-01-01
+ST258,Des Moines Central Store ST258,Des Moines,Iowa,50315,Central,Standard,2013-01-01
+ST259,Dubuque Central Store ST259,Dubuque,Iowa,52001,Central,Large,2013-01-01
+ST260,Iowa City Central Store ST260,Iowa City,Iowa,52240,Central,Standard,2013-01-01
+ST261,Marion Central Store ST261,Marion,Iowa,52302,Central,Flagship,2013-01-01
+ST262,Urbandale Central Store ST262,Urbandale,Iowa,50322,Central,Large,2013-01-01
+ST263,Waterloo Central Store ST263,Waterloo,Iowa,50701,Central,Standard,2013-01-01
+ST264,Garden City Central Store ST264,Garden City,Kansas,67846,Central,Standard,2013-01-01
+ST265,Manhattan Central Store ST265,Manhattan,Kansas,66502,Central,Large,2013-01-01
+ST266,Olathe Central Store ST266,Olathe,Kansas,66062,Central,Standard,2013-01-01
+ST267,Overland Park Central Store ST267,Overland Park,Kansas,66212,Central,Standard,2013-01-01
+ST268,Wichita Central Store ST268,Wichita,Kansas,67212,Central,Large,2013-01-01
+ST269,Bowling Green South Store ST269,Bowling Green,Kentucky,42104,South,Standard,2013-01-01
+ST270,Florence South Store ST270,Florence,Kentucky,41042,South,Standard,2013-01-01
+ST271,Georgetown South Store ST271,Georgetown,Kentucky,40324,South,Flagship,2013-01-01
+ST272,Henderson South Store ST272,Henderson,Kentucky,42420,South,Standard,2013-01-01
+ST273,Louisville South Store ST273,Louisville,Kentucky,40214,South,Standard,2013-01-01
+ST274,Murray South Store ST274,Murray,Kentucky,42071,South,Large,2013-01-01
+ST275,Owensboro South Store ST275,Owensboro,Kentucky,42301,South,Standard,2013-01-01
+ST276,Richmond South Store ST276,Richmond,Kentucky,40475,South,Standard,2013-01-01
+ST277,Bossier City South Store ST277,Bossier City,Louisiana,71111,South,Large,2013-01-01
+ST278,Kenner South Store ST278,Kenner,Louisiana,70065,South,Standard,2013-01-01
+ST279,Lafayette South Store ST279,Lafayette,Louisiana,70506,South,Standard,2013-01-01
+ST280,Lake Charles South Store ST280,Lake Charles,Louisiana,70601,South,Large,2013-01-01
+ST281,Monroe South Store ST281,Monroe,Louisiana,71203,South,Flagship,2013-01-01
+ST282,Bangor East Store ST282,Bangor,Maine,4401,East,Standard,2013-01-01
+ST283,Lewiston East Store ST283,Lewiston,Maine,4240,East,Large,2013-01-01
+ST284,Baltimore East Store ST284,Baltimore,Maryland,21215,East,Standard,2013-01-01
+ST285,Clinton East Store ST285,Clinton,Maryland,20735,East,Standard,2013-01-01
+ST286,Columbia East Store ST286,Columbia,Maryland,21044,East,Large,2013-01-01
+ST287,Gaithersburg East Store ST287,Gaithersburg,Maryland,20877,East,Standard,2013-01-01
+ST288,Hagerstown East Store ST288,Hagerstown,Maryland,21740,East,Standard,2013-01-01
+ST289,Laurel East Store ST289,Laurel,Maryland,20707,East,Large,2013-01-01
+ST290,Rockville East Store ST290,Rockville,Maryland,20852,East,Standard,2013-01-01
+ST291,Andover East Store ST291,Andover,Massachusetts,1810,East,Flagship,2013-01-01
+ST292,Beverly East Store ST292,Beverly,Massachusetts,1915,East,Large,2013-01-01
+ST293,Cambridge East Store ST293,Cambridge,Massachusetts,2138,East,Standard,2013-01-01
+ST294,Everett East Store ST294,Everett,Massachusetts,2149,East,Standard,2013-01-01
+ST295,Franklin East Store ST295,Franklin,Massachusetts,2038,East,Large,2013-01-01
+ST296,Holyoke East Store ST296,Holyoke,Massachusetts,1040,East,Standard,2013-01-01
+ST297,Lawrence East Store ST297,Lawrence,Massachusetts,1841,East,Standard,2013-01-01
+ST298,Leominster East Store ST298,Leominster,Massachusetts,1453,East,Large,2013-01-01
+ST299,Lowell East Store ST299,Lowell,Massachusetts,1852,East,Standard,2013-01-01
+ST300,Malden East Store ST300,Malden,Massachusetts,2148,East,Standard,2013-01-01
+ST301,Marlborough East Store ST301,Marlborough,Massachusetts,1752,East,Flagship,2013-01-01
+ST302,New Bedford East Store ST302,New Bedford,Massachusetts,2740,East,Standard,2013-01-01
+ST303,Quincy East Store ST303,Quincy,Massachusetts,2169,East,Standard,2013-01-01
+ST304,Revere East Store ST304,Revere,Massachusetts,2151,East,Large,2013-01-01
+ST305,Ann Arbor Central Store ST305,Ann Arbor,Michigan,48104,Central,Standard,2013-01-01
+ST306,Canton Central Store ST306,Canton,Michigan,48187,Central,Standard,2013-01-01
+ST307,Dearborn Central Store ST307,Dearborn,Michigan,48126,Central,Large,2013-01-01
+ST308,Dearborn Heights Central Store ST308,Dearborn Heights,Michigan,48127,Central,Standard,2013-01-01
+ST309,Detroit Central Store ST309,Detroit,Michigan,48227,Central,Standard,2013-01-01
+ST310,Detroit Central Store ST310,Detroit,Michigan,48234,Central,Large,2013-01-01
+ST311,Detroit Central Store ST311,Detroit,Michigan,48205,Central,Flagship,2013-01-01
+ST312,Grand Rapids Central Store ST312,Grand Rapids,Michigan,49505,Central,Standard,2013-01-01
+ST313,Holland Central Store ST313,Holland,Michigan,49423,Central,Large,2013-01-01
+ST314,Jackson Central Store ST314,Jackson,Michigan,49201,Central,Standard,2013-01-01
+ST315,Lansing Central Store ST315,Lansing,Michigan,48911,Central,Standard,2013-01-01
+ST316,Lincoln Park Central Store ST316,Lincoln Park,Michigan,48146,Central,Large,2013-01-01
+ST317,Midland Central Store ST317,Midland,Michigan,48640,Central,Standard,2013-01-01
+ST318,Mount Pleasant Central Store ST318,Mount Pleasant,Michigan,48858,Central,Standard,2013-01-01
+ST319,Oak Park Central Store ST319,Oak Park,Michigan,48237,Central,Large,2013-01-01
+ST320,Rochester Hills Central Store ST320,Rochester Hills,Michigan,48307,Central,Standard,2013-01-01
+ST321,Roseville Central Store ST321,Roseville,Michigan,48066,Central,Flagship,2013-01-01
+ST322,Royal Oak Central Store ST322,Royal Oak,Michigan,48073,Central,Large,2013-01-01
+ST323,Saginaw Central Store ST323,Saginaw,Michigan,48601,Central,Standard,2013-01-01
+ST324,Sterling Heights Central Store ST324,Sterling Heights,Michigan,48310,Central,Standard,2013-01-01
+ST325,Taylor Central Store ST325,Taylor,Michigan,48180,Central,Large,2013-01-01
+ST326,Trenton Central Store ST326,Trenton,Michigan,48183,Central,Standard,2013-01-01
+ST327,Westland Central Store ST327,Westland,Michigan,48185,Central,Standard,2013-01-01
+ST328,Apple Valley Central Store ST328,Apple Valley,Minnesota,55124,Central,Large,2013-01-01
+ST329,Coon Rapids Central Store ST329,Coon Rapids,Minnesota,55433,Central,Standard,2013-01-01
+ST330,Cottage Grove Central Store ST330,Cottage Grove,Minnesota,55016,Central,Standard,2013-01-01
+ST331,Eagan Central Store ST331,Eagan,Minnesota,55122,Central,Flagship,2013-01-01
+ST332,Lakeville Central Store ST332,Lakeville,Minnesota,55044,Central,Standard,2013-01-01
+ST333,Maple Grove Central Store ST333,Maple Grove,Minnesota,55369,Central,Standard,2013-01-01
+ST334,Minneapolis Central Store ST334,Minneapolis,Minnesota,55407,Central,Large,2013-01-01
+ST335,Moorhead Central Store ST335,Moorhead,Minnesota,56560,Central,Standard,2013-01-01
+ST336,Rochester Central Store ST336,Rochester,Minnesota,55901,Central,Standard,2013-01-01
+ST337,Roseville Central Store ST337,Roseville,Minnesota,55113,Central,Large,2013-01-01
+ST338,Saint Cloud Central Store ST338,Saint Cloud,Minnesota,56301,Central,Standard,2013-01-01
+ST339,Saint Paul Central Store ST339,Saint Paul,Minnesota,55106,Central,Standard,2013-01-01
+ST340,Woodbury Central Store ST340,Woodbury,Minnesota,55125,Central,Large,2013-01-01
+ST341,Gulfport South Store ST341,Gulfport,Mississippi,39503,South,Flagship,2013-01-01
+ST342,Hattiesburg South Store ST342,Hattiesburg,Mississippi,39401,South,Standard,2013-01-01
+ST343,Jackson South Store ST343,Jackson,Mississippi,39212,South,Large,2013-01-01
+ST344,Southaven South Store ST344,Southaven,Mississippi,38671,South,Standard,2013-01-01
+ST345,Columbia Central Store ST345,Columbia,Missouri,65203,Central,Standard,2013-01-01
+ST346,Gladstone Central Store ST346,Gladstone,Missouri,64118,Central,Large,2013-01-01
+ST347,Independence Central Store ST347,Independence,Missouri,64055,Central,Standard,2013-01-01
+ST348,Jefferson City Central Store ST348,Jefferson City,Missouri,65109,Central,Standard,2013-01-01
+ST349,Kirkwood Central Store ST349,Kirkwood,Missouri,63122,Central,Large,2013-01-01
+ST350,Saint Charles Central Store ST350,Saint Charles,Missouri,63301,Central,Standard,2013-01-01
+ST351,Saint Louis Central Store ST351,Saint Louis,Missouri,63116,Central,Flagship,2013-01-01
+ST352,Saint Peters Central Store ST352,Saint Peters,Missouri,63376,Central,Large,2013-01-01
+ST353,Springfield Central Store ST353,Springfield,Missouri,65807,Central,Standard,2013-01-01
+ST354,Billings West Store ST354,Billings,Montana,59102,West,Standard,2013-01-01
+ST355,Bozeman West Store ST355,Bozeman,Montana,59715,West,Large,2013-01-01
+ST356,Great Falls West Store ST356,Great Falls,Montana,59405,West,Standard,2013-01-01
+ST357,Helena West Store ST357,Helena,Montana,59601,West,Standard,2013-01-01
+ST358,Missoula West Store ST358,Missoula,Montana,59801,West,Large,2013-01-01
+ST359,Fremont Central Store ST359,Fremont,Nebraska,68025,Central,Standard,2013-01-01
+ST360,Grand Island Central Store ST360,Grand Island,Nebraska,68801,Central,Standard,2013-01-01
+ST361,Norfolk Central Store ST361,Norfolk,Nebraska,68701,Central,Flagship,2013-01-01
+ST362,Omaha Central Store ST362,Omaha,Nebraska,68104,Central,Standard,2013-01-01
+ST363,Henderson West Store ST363,Henderson,Nevada,89015,West,Standard,2013-01-01
+ST364,Las Vegas West Store ST364,Las Vegas,Nevada,89115,West,Large,2013-01-01
+ST365,North Las Vegas West Store ST365,North Las Vegas,Nevada,89031,West,Standard,2013-01-01
+ST366,Reno West Store ST366,Reno,Nevada,89502,West,Standard,2013-01-01
+ST367,Sparks West Store ST367,Sparks,Nevada,89431,West,Large,2013-01-01
+ST368,Concord East Store ST368,Concord,New Hampshire,3301,East,Standard,2013-01-01
+ST369,Dover East Store ST369,Dover,New Hampshire,3820,East,Standard,2013-01-01
+ST370,Nashua East Store ST370,Nashua,New Hampshire,3060,East,Large,2013-01-01
+ST371,Atlantic City East Store ST371,Atlantic City,New Jersey,8401,East,Flagship,2013-01-01
+ST372,Bayonne East Store ST372,Bayonne,New Jersey,7002,East,Standard,2013-01-01
+ST373,Belleville East Store ST373,Belleville,New Jersey,7109,East,Large,2013-01-01
+ST374,Bridgeton East Store ST374,Bridgeton,New Jersey,8302,East,Standard,2013-01-01
+ST375,Clifton East Store ST375,Clifton,New Jersey,7011,East,Standard,2013-01-01
+ST376,East Orange East Store ST376,East Orange,New Jersey,7017,East,Large,2013-01-01
+ST377,Hackensack East Store ST377,Hackensack,New Jersey,7601,East,Standard,2013-01-01
+ST378,Lakewood East Store ST378,Lakewood,New Jersey,8701,East,Standard,2013-01-01
+ST379,Linden East Store ST379,Linden,New Jersey,7036,East,Large,2013-01-01
+ST380,Morristown East Store ST380,Morristown,New Jersey,7960,East,Standard,2013-01-01
+ST381,New Brunswick East Store ST381,New Brunswick,New Jersey,8901,East,Flagship,2013-01-01
+ST382,Orange East Store ST382,Orange,New Jersey,7050,East,Large,2013-01-01
+ST383,Passaic East Store ST383,Passaic,New Jersey,7055,East,Standard,2013-01-01
+ST384,Paterson East Store ST384,Paterson,New Jersey,7501,East,Standard,2013-01-01
+ST385,Perth Amboy East Store ST385,Perth Amboy,New Jersey,8861,East,Large,2013-01-01
+ST386,Plainfield East Store ST386,Plainfield,New Jersey,7060,East,Standard,2013-01-01
+ST387,Vineland East Store ST387,Vineland,New Jersey,8360,East,Standard,2013-01-01
+ST388,Westfield East Store ST388,Westfield,New Jersey,7090,East,Large,2013-01-01
+ST389,Albuquerque West Store ST389,Albuquerque,New Mexico,87105,West,Standard,2013-01-01
+ST390,Carlsbad West Store ST390,Carlsbad,New Mexico,88220,West,Standard,2013-01-01
+ST391,Clovis West Store ST391,Clovis,New Mexico,88101,West,Flagship,2013-01-01
+ST392,Farmington West Store ST392,Farmington,New Mexico,87401,West,Standard,2013-01-01
+ST393,Las Cruces West Store ST393,Las Cruces,New Mexico,88001,West,Standard,2013-01-01
+ST394,Rio Rancho West Store ST394,Rio Rancho,New Mexico,87124,West,Large,2013-01-01
+ST395,Santa Fe West Store ST395,Santa Fe,New Mexico,87505,West,Standard,2013-01-01
+ST396,Auburn East Store ST396,Auburn,New York,13021,East,Standard,2013-01-01
+ST397,Buffalo East Store ST397,Buffalo,New York,14215,East,Large,2013-01-01
+ST398,Freeport East Store ST398,Freeport,New York,11520,East,Standard,2013-01-01
+ST399,Hempstead East Store ST399,Hempstead,New York,11550,East,Standard,2013-01-01
+ST400,Jamestown East Store ST400,Jamestown,New York,14701,East,Large,2013-01-01
+ST401,Lindenhurst East Store ST401,Lindenhurst,New York,11757,East,Flagship,2013-01-01
+ST402,Long Beach East Store ST402,Long Beach,New York,11561,East,Standard,2013-01-01
+ST403,Mount Vernon East Store ST403,Mount Vernon,New York,10550,East,Large,2013-01-01
+ST404,New Rochelle East Store ST404,New Rochelle,New York,10801,East,Standard,2013-01-01
+ST405,New York City East Store ST405,New York City,New York,10024,East,Standard,2013-01-01
+ST406,New York City East Store ST406,New York City,New York,10009,East,Large,2013-01-01
+ST407,New York City East Store ST407,New York City,New York,10035,East,Standard,2013-01-01
+ST408,New York City East Store ST408,New York City,New York,10011,East,Standard,2013-01-01
+ST409,Niagara Falls East Store ST409,Niagara Falls,New York,14304,East,Large,2013-01-01
+ST410,Oceanside East Store ST410,Oceanside,New York,11572,East,Standard,2013-01-01
+ST411,Rochester East Store ST411,Rochester,New York,14609,East,Flagship,2013-01-01
+ST412,Rome East Store ST412,Rome,New York,13440,East,Large,2013-01-01
+ST413,Troy East Store ST413,Troy,New York,12180,East,Standard,2013-01-01
+ST414,Utica East Store ST414,Utica,New York,13501,East,Standard,2013-01-01
+ST415,Watertown East Store ST415,Watertown,New York,13601,East,Large,2013-01-01
+ST416,Yonkers East Store ST416,Yonkers,New York,10701,East,Standard,2013-01-01
+ST417,Asheville South Store ST417,Asheville,North Carolina,28806,South,Standard,2013-01-01
+ST418,Burlington South Store ST418,Burlington,North Carolina,27217,South,Large,2013-01-01
+ST419,Cary South Store ST419,Cary,North Carolina,27511,South,Standard,2013-01-01
+ST420,Chapel Hill South Store ST420,Chapel Hill,North Carolina,27514,South,Standard,2013-01-01
+ST421,Charlotte South Store ST421,Charlotte,North Carolina,28205,South,Flagship,2013-01-01
+ST422,Concord South Store ST422,Concord,North Carolina,28027,South,Standard,2013-01-01
+ST423,Durham South Store ST423,Durham,North Carolina,27707,South,Standard,2013-01-01
+ST424,Fayetteville South Store ST424,Fayetteville,North Carolina,28314,South,Large,2013-01-01
+ST425,Gastonia South Store ST425,Gastonia,North Carolina,28052,South,Standard,2013-01-01
+ST426,Goldsboro South Store ST426,Goldsboro,North Carolina,27534,South,Standard,2013-01-01
+ST427,Greensboro South Store ST427,Greensboro,North Carolina,27405,South,Large,2013-01-01
+ST428,Greenville South Store ST428,Greenville,North Carolina,27834,South,Standard,2013-01-01
+ST429,Hickory South Store ST429,Hickory,North Carolina,28601,South,Standard,2013-01-01
+ST430,Jacksonville South Store ST430,Jacksonville,North Carolina,28540,South,Large,2013-01-01
+ST431,Monroe South Store ST431,Monroe,North Carolina,28110,South,Flagship,2013-01-01
+ST432,Raleigh South Store ST432,Raleigh,North Carolina,27604,South,Standard,2013-01-01
+ST433,Thomasville South Store ST433,Thomasville,North Carolina,27360,South,Large,2013-01-01
+ST434,Wilmington South Store ST434,Wilmington,North Carolina,28403,South,Standard,2013-01-01
+ST435,Wilson South Store ST435,Wilson,North Carolina,27893,South,Standard,2013-01-01
+ST436,Fargo Central Store ST436,Fargo,North Dakota,58103,Central,Large,2013-01-01
+ST437,Akron East Store ST437,Akron,Ohio,44312,East,Standard,2013-01-01
+ST438,Bowling Green East Store ST438,Bowling Green,Ohio,43402,East,Standard,2013-01-01
+ST439,Cincinnati East Store ST439,Cincinnati,Ohio,45231,East,Large,2013-01-01
+ST440,Cleveland East Store ST440,Cleveland,Ohio,44105,East,Standard,2013-01-01
+ST441,Columbus East Store ST441,Columbus,Ohio,43229,East,Flagship,2013-01-01
+ST442,Cuyahoga Falls East Store ST442,Cuyahoga Falls,Ohio,44221,East,Large,2013-01-01
+ST443,Dublin East Store ST443,Dublin,Ohio,43017,East,Standard,2013-01-01
+ST444,Elyria East Store ST444,Elyria,Ohio,44035,East,Standard,2013-01-01
+ST445,Fairfield East Store ST445,Fairfield,Ohio,45014,East,Large,2013-01-01
+ST446,Grove City East Store ST446,Grove City,Ohio,43123,East,Standard,2013-01-01
+ST447,Hamilton East Store ST447,Hamilton,Ohio,45011,East,Standard,2013-01-01
+ST448,Kent East Store ST448,Kent,Ohio,44240,East,Large,2013-01-01
+ST449,Lakewood East Store ST449,Lakewood,Ohio,44107,East,Standard,2013-01-01
+ST450,Lancaster East Store ST450,Lancaster,Ohio,43130,East,Standard,2013-01-01
+ST451,Lorain East Store ST451,Lorain,Ohio,44052,East,Flagship,2013-01-01
+ST452,Marion East Store ST452,Marion,Ohio,43302,East,Standard,2013-01-01
+ST453,Mason East Store ST453,Mason,Ohio,45040,East,Standard,2013-01-01
+ST454,Medina East Store ST454,Medina,Ohio,44256,East,Large,2013-01-01
+ST455,Mentor East Store ST455,Mentor,Ohio,44060,East,Standard,2013-01-01
+ST456,Newark East Store ST456,Newark,Ohio,43055,East,Standard,2013-01-01
+ST457,Parma East Store ST457,Parma,Ohio,44134,East,Large,2013-01-01
+ST458,Springfield East Store ST458,Springfield,Ohio,45503,East,Standard,2013-01-01
+ST459,Toledo East Store ST459,Toledo,Ohio,43615,East,Standard,2013-01-01
+ST460,Troy East Store ST460,Troy,Ohio,45373,East,Large,2013-01-01
+ST461,Broken Arrow Central Store ST461,Broken Arrow,Oklahoma,74012,Central,Flagship,2013-01-01
+ST462,Edmond Central Store ST462,Edmond,Oklahoma,73034,Central,Standard,2013-01-01
+ST463,Lawton Central Store ST463,Lawton,Oklahoma,73505,Central,Large,2013-01-01
+ST464,Muskogee Central Store ST464,Muskogee,Oklahoma,74403,Central,Standard,2013-01-01
+ST465,Norman Central Store ST465,Norman,Oklahoma,73071,Central,Standard,2013-01-01
+ST466,Oklahoma City Central Store ST466,Oklahoma City,Oklahoma,73120,Central,Large,2013-01-01
+ST467,Tulsa Central Store ST467,Tulsa,Oklahoma,74133,Central,Standard,2013-01-01
+ST468,Eugene West Store ST468,Eugene,Oregon,97405,West,Standard,2013-01-01
+ST469,Gresham West Store ST469,Gresham,Oregon,97030,West,Large,2013-01-01
+ST470,Hillsboro West Store ST470,Hillsboro,Oregon,97123,West,Standard,2013-01-01
+ST471,Medford West Store ST471,Medford,Oregon,97504,West,Flagship,2013-01-01
+ST472,Portland West Store ST472,Portland,Oregon,97206,West,Large,2013-01-01
+ST473,Redmond West Store ST473,Redmond,Oregon,97756,West,Standard,2013-01-01
+ST474,Salem West Store ST474,Salem,Oregon,97301,West,Standard,2013-01-01
+ST475,Springfield West Store ST475,Springfield,Oregon,97477,West,Large,2013-01-01
+ST476,Tigard West Store ST476,Tigard,Oregon,97224,West,Standard,2013-01-01
+ST477,Allentown East Store ST477,Allentown,Pennsylvania,18103,East,Standard,2013-01-01
+ST478,Altoona East Store ST478,Altoona,Pennsylvania,16602,East,Large,2013-01-01
+ST479,Bethlehem East Store ST479,Bethlehem,Pennsylvania,18018,East,Standard,2013-01-01
+ST480,Chester East Store ST480,Chester,Pennsylvania,19013,East,Standard,2013-01-01
+ST481,Lancaster East Store ST481,Lancaster,Pennsylvania,17602,East,Flagship,2013-01-01
+ST482,Philadelphia East Store ST482,Philadelphia,Pennsylvania,19140,East,Standard,2013-01-01
+ST483,Philadelphia East Store ST483,Philadelphia,Pennsylvania,19134,East,Standard,2013-01-01
+ST484,Philadelphia East Store ST484,Philadelphia,Pennsylvania,19120,East,Large,2013-01-01
+ST485,Philadelphia East Store ST485,Philadelphia,Pennsylvania,19143,East,Standard,2013-01-01
+ST486,Reading East Store ST486,Reading,Pennsylvania,19601,East,Standard,2013-01-01
+ST487,York East Store ST487,York,Pennsylvania,17403,East,Large,2013-01-01
+ST488,Cranston East Store ST488,Cranston,Rhode Island,2920,East,Standard,2013-01-01
+ST489,Providence East Store ST489,Providence,Rhode Island,2908,East,Standard,2013-01-01
+ST490,Warwick East Store ST490,Warwick,Rhode Island,2886,East,Large,2013-01-01
+ST491,Woonsocket East Store ST491,Woonsocket,Rhode Island,2895,East,Flagship,2013-01-01
+ST492,Columbia South Store ST492,Columbia,South Carolina,29203,South,Standard,2013-01-01
+ST493,Florence South Store ST493,Florence,South Carolina,29501,South,Large,2013-01-01
+ST494,Mount Pleasant South Store ST494,Mount Pleasant,South Carolina,29464,South,Standard,2013-01-01
+ST495,North Charleston South Store ST495,North Charleston,South Carolina,29406,South,Standard,2013-01-01
+ST496,Rock Hill South Store ST496,Rock Hill,South Carolina,29730,South,Large,2013-01-01
+ST497,Summerville South Store ST497,Summerville,South Carolina,29483,South,Standard,2013-01-01
+ST498,Aberdeen Central Store ST498,Aberdeen,South Dakota,57401,Central,Standard,2013-01-01
+ST499,Rapid City Central Store ST499,Rapid City,South Dakota,57701,Central,Large,2013-01-01
+ST500,Sioux Falls Central Store ST500,Sioux Falls,South Dakota,57103,Central,Standard,2013-01-01
+ST501,Bartlett South Store ST501,Bartlett,Tennessee,38134,South,Flagship,2013-01-01
+ST502,Bristol South Store ST502,Bristol,Tennessee,37620,South,Large,2013-01-01
+ST503,Chattanooga South Store ST503,Chattanooga,Tennessee,37421,South,Standard,2013-01-01
+ST504,Clarksville South Store ST504,Clarksville,Tennessee,37042,South,Standard,2013-01-01
+ST505,Columbia South Store ST505,Columbia,Tennessee,38401,South,Large,2013-01-01
+ST506,Franklin South Store ST506,Franklin,Tennessee,37064,South,Standard,2013-01-01
+ST507,Hendersonville South Store ST507,Hendersonville,Tennessee,37075,South,Standard,2013-01-01
+ST508,Jackson South Store ST508,Jackson,Tennessee,38301,South,Large,2013-01-01
+ST509,Johnson City South Store ST509,Johnson City,Tennessee,37604,South,Standard,2013-01-01
+ST510,Knoxville South Store ST510,Knoxville,Tennessee,37918,South,Standard,2013-01-01
+ST511,Lebanon South Store ST511,Lebanon,Tennessee,37087,South,Flagship,2013-01-01
+ST512,Memphis South Store ST512,Memphis,Tennessee,38109,South,Standard,2013-01-01
+ST513,Murfreesboro South Store ST513,Murfreesboro,Tennessee,37130,South,Standard,2013-01-01
+ST514,Nashville South Store ST514,Nashville,Tennessee,37211,South,Large,2013-01-01
+ST515,Smyrna South Store ST515,Smyrna,Tennessee,37167,South,Standard,2013-01-01
+ST516,Abilene Central Store ST516,Abilene,Texas,79605,Central,Standard,2013-01-01
+ST517,Allen Central Store ST517,Allen,Texas,75002,Central,Large,2013-01-01
+ST518,Amarillo Central Store ST518,Amarillo,Texas,79109,Central,Standard,2013-01-01
+ST519,Arlington Central Store ST519,Arlington,Texas,76017,Central,Standard,2013-01-01
+ST520,Austin Central Store ST520,Austin,Texas,78745,Central,Large,2013-01-01
+ST521,Baytown Central Store ST521,Baytown,Texas,77520,Central,Flagship,2013-01-01
+ST522,Beaumont Central Store ST522,Beaumont,Texas,77705,Central,Standard,2013-01-01
+ST523,Bedford Central Store ST523,Bedford,Texas,76021,Central,Large,2013-01-01
+ST524,Brownsville Central Store ST524,Brownsville,Texas,78521,Central,Standard,2013-01-01
+ST525,Bryan Central Store ST525,Bryan,Texas,77803,Central,Standard,2013-01-01
+ST526,Carrollton Central Store ST526,Carrollton,Texas,75007,Central,Large,2013-01-01
+ST527,Cedar Hill Central Store ST527,Cedar Hill,Texas,75104,Central,Standard,2013-01-01
+ST528,College Station Central Store ST528,College Station,Texas,77840,Central,Standard,2013-01-01
+ST529,Conroe Central Store ST529,Conroe,Texas,77301,Central,Large,2013-01-01
+ST530,Coppell Central Store ST530,Coppell,Texas,75019,Central,Standard,2013-01-01
+ST531,Corpus Christi Central Store ST531,Corpus Christi,Texas,78415,Central,Flagship,2013-01-01
+ST532,Dallas Central Store ST532,Dallas,Texas,75220,Central,Large,2013-01-01
+ST533,Dallas Central Store ST533,Dallas,Texas,75217,Central,Standard,2013-01-01
+ST534,Dallas Central Store ST534,Dallas,Texas,75081,Central,Standard,2013-01-01
+ST535,Deer Park Central Store ST535,Deer Park,Texas,77536,Central,Large,2013-01-01
+ST536,Edinburg Central Store ST536,Edinburg,Texas,78539,Central,Standard,2013-01-01
+ST537,El Paso Central Store ST537,El Paso,Texas,79907,Central,Standard,2013-01-01
+ST538,Fort Worth Central Store ST538,Fort Worth,Texas,76106,Central,Large,2013-01-01
+ST539,Frisco Central Store ST539,Frisco,Texas,75034,Central,Standard,2013-01-01
+ST540,Garland Central Store ST540,Garland,Texas,75043,Central,Standard,2013-01-01
+ST541,Grand Prairie Central Store ST541,Grand Prairie,Texas,75051,Central,Flagship,2013-01-01
+ST542,Grapevine Central Store ST542,Grapevine,Texas,76051,Central,Standard,2013-01-01
+ST543,Haltom City Central Store ST543,Haltom City,Texas,76117,Central,Standard,2013-01-01
+ST544,Harlingen Central Store ST544,Harlingen,Texas,78550,Central,Large,2013-01-01
+ST545,Houston Central Store ST545,Houston,Texas,77095,Central,Standard,2013-01-01
+ST546,Houston Central Store ST546,Houston,Texas,77041,Central,Standard,2013-01-01
+ST547,Houston Central Store ST547,Houston,Texas,77070,Central,Large,2013-01-01
+ST548,Houston Central Store ST548,Houston,Texas,77036,Central,Standard,2013-01-01
+ST549,Huntsville Central Store ST549,Huntsville,Texas,77340,Central,Standard,2013-01-01
+ST550,Irving Central Store ST550,Irving,Texas,75061,Central,Large,2013-01-01
+ST551,Keller Central Store ST551,Keller,Texas,76248,Central,Flagship,2013-01-01
+ST552,La Porte Central Store ST552,La Porte,Texas,77571,Central,Standard,2013-01-01
+ST553,Laredo Central Store ST553,Laredo,Texas,78041,Central,Large,2013-01-01
+ST554,League City Central Store ST554,League City,Texas,77573,Central,Standard,2013-01-01
+ST555,Lubbock Central Store ST555,Lubbock,Texas,79424,Central,Standard,2013-01-01
+ST556,Mansfield Central Store ST556,Mansfield,Texas,76063,Central,Large,2013-01-01
+ST557,Mcallen Central Store ST557,Mcallen,Texas,78501,Central,Standard,2013-01-01
+ST558,Mesquite Central Store ST558,Mesquite,Texas,75150,Central,Standard,2013-01-01
+ST559,Missouri City Central Store ST559,Missouri City,Texas,77489,Central,Large,2013-01-01
+ST560,Odessa Central Store ST560,Odessa,Texas,79762,Central,Standard,2013-01-01
+ST561,Pasadena Central Store ST561,Pasadena,Texas,77506,Central,Flagship,2013-01-01
+ST562,Pearland Central Store ST562,Pearland,Texas,77581,Central,Large,2013-01-01
+ST563,Pharr Central Store ST563,Pharr,Texas,78577,Central,Standard,2013-01-01
+ST564,Plano Central Store ST564,Plano,Texas,75023,Central,Standard,2013-01-01
+ST565,Port Arthur Central Store ST565,Port Arthur,Texas,77642,Central,Large,2013-01-01
+ST566,Richardson Central Store ST566,Richardson,Texas,75080,Central,Standard,2013-01-01
+ST567,Round Rock Central Store ST567,Round Rock,Texas,78664,Central,Standard,2013-01-01
+ST568,San Angelo Central Store ST568,San Angelo,Texas,76903,Central,Large,2013-01-01
+ST569,San Antonio Central Store ST569,San Antonio,Texas,78207,Central,Standard,2013-01-01
+ST570,San Marcos Central Store ST570,San Marcos,Texas,78666,Central,Standard,2013-01-01
+ST571,Texas City Central Store ST571,Texas City,Texas,77590,Central,Flagship,2013-01-01
+ST572,The Colony Central Store ST572,The Colony,Texas,75056,Central,Standard,2013-01-01
+ST573,Tyler Central Store ST573,Tyler,Texas,75701,Central,Standard,2013-01-01
+ST574,Waco Central Store ST574,Waco,Texas,76706,Central,Large,2013-01-01
+ST575,Draper West Store ST575,Draper,Utah,84020,West,Standard,2013-01-01
+ST576,Layton West Store ST576,Layton,Utah,84041,West,Standard,2013-01-01
+ST577,Lehi West Store ST577,Lehi,Utah,84043,West,Large,2013-01-01
+ST578,Logan West Store ST578,Logan,Utah,84321,West,Standard,2013-01-01
+ST579,Murray West Store ST579,Murray,Utah,84107,West,Standard,2013-01-01
+ST580,Orem West Store ST580,Orem,Utah,84057,West,Large,2013-01-01
+ST581,Pleasant Grove West Store ST581,Pleasant Grove,Utah,84062,West,Flagship,2013-01-01
+ST582,Provo West Store ST582,Provo,Utah,84604,West,Standard,2013-01-01
+ST583,Salt Lake City West Store ST583,Salt Lake City,Utah,84106,West,Large,2013-01-01
+ST584,West Jordan West Store ST584,West Jordan,Utah,84084,West,Standard,2013-01-01
+ST585,Burlington East Store ST585,Burlington,Vermont,5408,East,Standard,2013-01-01
+ST586,Alexandria South Store ST586,Alexandria,Virginia,22304,South,Large,2013-01-01
+ST587,Arlington South Store ST587,Arlington,Virginia,22204,South,Standard,2013-01-01
+ST588,Charlottesville South Store ST588,Charlottesville,Virginia,22901,South,Standard,2013-01-01
+ST589,Chesapeake South Store ST589,Chesapeake,Virginia,23320,South,Large,2013-01-01
+ST590,Hampton South Store ST590,Hampton,Virginia,23666,South,Standard,2013-01-01
+ST591,Harrisonburg South Store ST591,Harrisonburg,Virginia,22801,South,Flagship,2013-01-01
+ST592,Newport News South Store ST592,Newport News,Virginia,23602,South,Large,2013-01-01
+ST593,Richmond South Store ST593,Richmond,Virginia,23223,South,Standard,2013-01-01
+ST594,Salem South Store ST594,Salem,Virginia,24153,South,Standard,2013-01-01
+ST595,Springfield South Store ST595,Springfield,Virginia,22153,South,Large,2013-01-01
+ST596,Suffolk South Store ST596,Suffolk,Virginia,23434,South,Standard,2013-01-01
+ST597,Virginia Beach South Store ST597,Virginia Beach,Virginia,23464,South,Standard,2013-01-01
+ST598,Waynesboro South Store ST598,Waynesboro,Virginia,22980,South,Large,2013-01-01
+ST599,Auburn West Store ST599,Auburn,Washington,98002,West,Standard,2013-01-01
+ST600,Bellevue West Store ST600,Bellevue,Washington,98006,West,Standard,2013-01-01
+ST601,Bellingham West Store ST601,Bellingham,Washington,98226,West,Flagship,2013-01-01
+ST602,Covington West Store ST602,Covington,Washington,98042,West,Standard,2013-01-01
+ST603,Des Moines West Store ST603,Des Moines,Washington,98198,West,Standard,2013-01-01
+ST604,Edmonds West Store ST604,Edmonds,Washington,98026,West,Large,2013-01-01
+ST605,Everett West Store ST605,Everett,Washington,98208,West,Standard,2013-01-01
+ST606,Kent West Store ST606,Kent,Washington,98031,West,Standard,2013-01-01
+ST607,Longview West Store ST607,Longview,Washington,98632,West,Large,2013-01-01
+ST608,Marysville West Store ST608,Marysville,Washington,98270,West,Standard,2013-01-01
+ST609,Olympia West Store ST609,Olympia,Washington,98502,West,Standard,2013-01-01
+ST610,Pasco West Store ST610,Pasco,Washington,99301,West,Large,2013-01-01
+ST611,Redmond West Store ST611,Redmond,Washington,98052,West,Flagship,2013-01-01
+ST612,Renton West Store ST612,Renton,Washington,98059,West,Standard,2013-01-01
+ST613,Seattle West Store ST613,Seattle,Washington,98103,West,Large,2013-01-01
+ST614,Seattle West Store ST614,Seattle,Washington,98105,West,Standard,2013-01-01
+ST615,Seattle West Store ST615,Seattle,Washington,98115,West,Standard,2013-01-01
+ST616,Spokane West Store ST616,Spokane,Washington,99207,West,Large,2013-01-01
+ST617,Vancouver West Store ST617,Vancouver,Washington,98661,West,Standard,2013-01-01
+ST618,Wheeling East Store ST618,Wheeling,West Virginia,26003,East,Standard,2013-01-01
+ST619,Appleton Central Store ST619,Appleton,Wisconsin,54915,Central,Large,2013-01-01
+ST620,Eau Claire Central Store ST620,Eau Claire,Wisconsin,54703,Central,Standard,2013-01-01
+ST621,Franklin Central Store ST621,Franklin,Wisconsin,53132,Central,Flagship,2013-01-01
+ST622,Green Bay Central Store ST622,Green Bay,Wisconsin,54302,Central,Large,2013-01-01
+ST623,Kenosha Central Store ST623,Kenosha,Wisconsin,53142,Central,Standard,2013-01-01
+ST624,La Crosse Central Store ST624,La Crosse,Wisconsin,54601,Central,Standard,2013-01-01
+ST625,Madison Central Store ST625,Madison,Wisconsin,53711,Central,Large,2013-01-01
+ST626,Milwaukee Central Store ST626,Milwaukee,Wisconsin,53209,Central,Standard,2013-01-01
+ST627,Sheboygan Central Store ST627,Sheboygan,Wisconsin,53081,Central,Standard,2013-01-01
+ST628,Superior Central Store ST628,Superior,Wisconsin,54880,Central,Large,2013-01-01
+ST629,Waukesha Central Store ST629,Waukesha,Wisconsin,53186,Central,Standard,2013-01-01
+ST630,Wausau Central Store ST630,Wausau,Wisconsin,54401,Central,Standard,2013-01-01
+ST631,West Allis Central Store ST631,West Allis,Wisconsin,53214,Central,Flagship,2013-01-01
+ST632,Cheyenne West Store ST632,Cheyenne,Wyoming,82001,West,Standard,2013-01-01

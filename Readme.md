@@ -39,7 +39,7 @@ Retail Analytics consolidates these areas into a structured analytical system an
 - SQL
 - Power BI
 - Excel / CSV
-- Git / GitHub
+- Git / GitHub--
 
 ---
 
